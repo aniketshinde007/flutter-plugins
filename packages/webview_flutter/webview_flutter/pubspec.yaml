@@ -36,7 +36,7 @@ dependencies:
     git:
       url: https://github.com/wenzhiming/flutter-plugins.git
       ref: dev-3.0.4
-      path: packages/webview_flutter/webview_pro_platform_interface
+      path: packages/webview_flutter/webview_flutter_platform_interface
 
 #  webview_pro_wkwebview: ^2.8.0
 #  webview_pro_wkwebview:
